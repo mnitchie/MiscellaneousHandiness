@@ -1,0 +1,12 @@
+Keyboard shortcuts I like.
+
+cmd+shift+c - Compress selection in Finder
+cmd+shift+arrow - change terminal tabs
+cmd+numpad ‘plus’ - expand folded collection
+cmd+numpad ‘minus’ - collapse folded collection
+ctrl+option+up or down - next or previous member
+cmd+o twice (show inherited members as well as direct members
+cmd+t - go to super type or subtype
+cmd+e - navigate open editors
+ctrl+option+h - open call hierarchy
+f4 - open type hierarchy
