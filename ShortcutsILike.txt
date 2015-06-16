@@ -10,3 +10,6 @@ cmd+t - go to super type or subtype
 cmd+e - navigate open editors
 ctrl+option+h - open call hierarchy
 f4 - open type hierarchy
+
+List folders in order of size if they are larger then 512 mb. Size is in kb
+du -k * | awk '$1 > 500000' | sort -nr
